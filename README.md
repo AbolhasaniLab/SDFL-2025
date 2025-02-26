@@ -1,4 +1,4 @@
-# Lead_Free, Digital Discovery:
+# Lead_Free, SDFL(2025):
 ## Here is the the Closed-Loop Optimization Code; the real-time data processing was provided within the second cell.
 ## While running the code, it asks for the directory path containing the .csv files; raw absorption and PL spectra as well as the light reference, wavelengths and dark references associated with the absorption and PL spectroscopy, and FR.
 ## User needs to copy and paste the directory path in the box provided by the code and press enter.
