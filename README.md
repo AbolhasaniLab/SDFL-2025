@@ -1,6 +1,6 @@
 ## Lead_Free, SDFL(2025):
 
-### Here are the the Data Processing, Digital Twin Training, and Closed-Loop Optimization Codes. The data used to train the digital twing models was also provided. 
+### Here are the the Data Processing, Digital Twin Training, and Closed-Loop Optimization Codes. The data used to train the digital twin models was also provided. 
 #### While running the optimization code, it asks for the directory path containing the .csv files; raw absorption and PL spectra as well as the light reference, wavelengths and dark references associated with the absorption and PL spectroscopy, and FR.
 #### User needs to copy and paste the directory path in the box provided by the code and press enter. 
 #### FR is the file that includes experimental conditions; each row represents one condition as follows:
